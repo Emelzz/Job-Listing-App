@@ -51,7 +51,7 @@ export const jobs: Job[] = [
   {
     id: 6,
     title: "Data Analyst",
-    company: "Insight Ltd",
+    company: "Learnable",
     location: "Port Harcourt",
     salary: "₦320,000",
     description: "Analyze business data and generate reports.",
@@ -59,7 +59,7 @@ export const jobs: Job[] = [
   {
     id: 7,
     title: "Cybersecurity Specialist",
-    company: "SecureTech",
+    company: "UpSkill",
     location: "Lagos",
     salary: "₦700,000",
     description: "Protect systems from cyber threats.",
