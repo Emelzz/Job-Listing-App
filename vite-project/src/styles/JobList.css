@@ -1,0 +1,21 @@
+.job-list-container {
+  padding: 40px;
+}
+
+.page-title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #1e293b;
+}
+
+.job-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.no-jobs {
+  text-align: center;
+  color: red;
+  font-size: 20px;
+}
